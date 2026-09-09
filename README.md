@@ -6,6 +6,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=FDF4CF&center=true&multiline=true&repeat=false&width=435&lines=credits+to+the+artist;don't+copy%2Ftake+inspo+of+my+githubs%2Fstrawpage%2Fponies)](https://git.io/typing-svg)
-
+<div align="center">
 <img width="400" height="400" alt="Untitled88_20260909171456" src="https://github.com/user-attachments/assets/aae1c04d-0622-4f3a-9acb-0c2a1dc76ab7" />
 <img width="680" height="4" alt="Untitled90_20260909171519" src="https://github.com/user-attachments/assets/1195872b-f086-4f11-a123-748166bf74b5" />
