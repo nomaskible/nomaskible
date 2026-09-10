@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%23F7E8D0&countColor=%238B2F2F">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%23F5E6C8&countColor=%238B2F2F">
 </div>
 <img width="680" height="4" alt="Untitled90_20260909171519" src="https://github.com/user-attachments/assets/aabe2fc1-8552-40b0-95a9-da2cc0d300c8" />
 
