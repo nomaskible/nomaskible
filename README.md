@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%23F7E8D0&countColor=%238B2F2F">
+</div>
 <img width="680" height="4" alt="Untitled90_20260909171519" src="https://github.com/user-attachments/assets/aabe2fc1-8552-40b0-95a9-da2cc0d300c8" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=FDF4CF&center=true&multiline=true&repeat=false&width=435&lines=I+miss+william%E2%80%A6)](https://git.io/typing-svg)
